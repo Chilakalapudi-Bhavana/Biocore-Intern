@@ -1,0 +1,59 @@
+				HYPER TEXT MARKUP LANGUAGE(HTML)
+
+<html>
+ 	<head>
+  		<title>
+		</tiltle>
+	</head>
+
+	<body>
+		<h>
+		</h>
+		<p>
+		</p>
+		
+	</body>
+</html>
+
+Tag	                  Description
+
+01)<!comments>		comments
+02)<p>			Paragraph
+03)<br>			Break
+04)<html>			Defines the root of an HTML document
+05)<body>			Defines the document's body
+06)<h1> to <h6>		Defines HTML headings
+07)<title>			used to display the title
+08)<href>			hyperreference
+09)<img>			used to insert image
+10)<style>			used to style the HTML
+11)<lang>			o declare the language of the Web page
+12)<pre>			like <p>and also accepts 
+
+
+08)<href>
+<a href="https://www.#bro.com">#bro</a>
+
+09)<img>
+<img src="#bro.jpg">
+<img src="https://www.#bro.com/bro.jpg">
+<img src="#bro.jpg" width="500" height="600">
+<img src="#bro.jpg" alt="about the picture">
+
+10)<style>
+<tagname style="property:value;">
+Use the style attribute for styling HTML elements
+*Use background-color for background color
+<body style="background-color:red;">
+*Use color for text colors
+<p style="color:red;">This is a paragraph.</p>
+*Use font-family for text fonts
+<h1 style="font-family:verdana;">This is a heading</h1>
+*Use font-size for text sizes
+<h1 style="font-size:300%;">This is a heading</h1>
+<h1 style="font-size:300%;">This is a heading</h1>
+*Use text-align for text alignment
+<h1 style="text-align:center;">Centered Heading</h1>
+
+11)<lang>
+<html lang="en">

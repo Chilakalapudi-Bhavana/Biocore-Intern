@@ -1,0 +1,13 @@
+h2 + p{
+    font-weight: bold;
+}
+
+h2 ~ p{
+    color:darkred;
+}
+section>p{
+    background-color: aquamarine;
+}
+section p{
+    font-family: monospace;
+}

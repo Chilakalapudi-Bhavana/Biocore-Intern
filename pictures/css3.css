@@ -1,0 +1,26 @@
+*{
+    font-style: italic;
+}
+div{
+    color:blue;
+    
+    
+}
+p{
+    color: red;
+}
+.exm1{
+font-size: 25pt;
+}
+#one{
+    background-color: darkorange;
+}
+#two{
+padding-top: 20px;
+}
+#three{
+    padding-left:40px;
+}
+#four{
+   padding-block: 80px;
+}

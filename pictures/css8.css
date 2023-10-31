@@ -1,0 +1,14 @@
+.box{
+    margin:20px;
+    padding:10p;
+    border:solid black 3px;
+}
+#b1{
+    background-color:red;
+}
+#b2{
+    background-color: orange;
+}
+#b3{
+    background-color:yellow;
+}

@@ -1,0 +1,16 @@
+https://htmlcolorcodes.com/color-picker/
+#3DB9B7
+
+
+blue-
+style="color:#161939"
+<b style="color:#161939"></b>
+<h3 style="color:#161939"></h3>
+
+aqua-
+<b style="color:#70E6DD"></b>
+<sup style="color:#70E6DD">()</sup> 
+<h3 style="color:#70E6DD"></h3>
+<p style="color:#70E6DD"></p>
+
+

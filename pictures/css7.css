@@ -1,0 +1,41 @@
+*{
+    background-color:black;
+}
+div{
+    background-color: rgb(199, 190, 152);
+}
+#d1{
+    background-color:violet;
+    font-style:italic;
+    font-size: 30px;
+}
+#d2{
+    background-color:indigo;
+    font-style:italic;
+    font-size: 30px;
+}
+#d3{
+    background-color: blue;
+    font-style:italic;
+    font-size: 30px;
+}
+#d4{
+    background-color: green;
+    font-style:italic;
+    font-size: 30px;
+}
+#d5{
+    background-color: red;
+    font-style:italic;
+    font-size: 30px;
+}
+#d6{
+    background-color: orange;
+    font-style:italic;
+    font-size: 30px;
+}
+#d7{
+    background-color: yellow;
+    font-style:italic;
+    font-size: 30px;
+}
